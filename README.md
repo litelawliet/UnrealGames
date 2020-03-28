@@ -3,6 +3,11 @@ This is a project made in second year of Game Programming at ISART Digital Montr
 
 Both projects use the basic WASD and mouse controller like an FPS.
 
+Platformer is the platformer game made in Blueprint.
+Gladiator is the arena game made in C++.
+
+These were an introduction to Unreal Engine 4.
+
 - WASD : to move around
 - mouse : to look somewhere
 - left mouse : attack (only for Gladiator game).
